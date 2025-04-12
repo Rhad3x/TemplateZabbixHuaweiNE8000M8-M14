@@ -14,7 +14,7 @@
             <description>Template Huawei NE8000 M8-M14</description>
             <templates>
                 <template>
-                    <name>Template SNMP Generic</name>
+                    <name>Template SNMP Allan</name>
                 </template>
             </templates>
             <groups>
